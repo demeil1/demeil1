@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Demeil.
 
-I am a 20 year old Computer Science major at the University of Illinois at Chicago 🌱. My passions include backend and low level development ⚡. In my free time, I enjoy solving coding problem and furthering my education in fields like mathematics 🔭.
+I am a 20 year old Computer Science major at the University of Illinois at Chicago 🌱. My passions include backend and low level development ⚡. In my free time, I enjoy solving coding problems and furthering my education in fields like mathematics 🔭.
 
 I strive to become a better programmer by writing code for problems that I, and others, want solutions too 🤔. Other than that, I enjoy reviewing code written by others to help hone my skills 😄.
 

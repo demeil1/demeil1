@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi 👋, I'm Demeil.
+
+I am a 20 year old Computer Science major at the University of Illinois at Chicago 🌱. My passions include backend and low level development ⚡. In my free time, I enjoy solving coding problems and furthering my education in fields like mathematics 🔭.
+
+I strive to become a better programmer by aiming to put out code for problems that I, and others, want solutions too 🤔. Furthermore, I am not afraid to point out my own missteps when trying to improve 😄.
+
+Languages and Frameworks:
+c cplusplus python rust git sql
 
 <!--
 **demeil1/demeil1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

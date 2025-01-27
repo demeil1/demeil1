@@ -4,7 +4,7 @@ I am a 20 year old Computer Science major at the University of Illinois at Chica
 
 I strive to become a better programmer by writing code for problems that I, and others, want solutions too 🤔. Other than that, I enjoy reviewing code written by others to help hone my skills 😄.
 
-### Languages, Software,and Frameworks:
+### Languages, Software, and Frameworks:
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 

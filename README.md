@@ -28,8 +28,8 @@ I strive to become a better programmer by writing code for problems that I, and 
 
 ### Projects:
 * **vndb-api**: Visual Novel API wrapper for the Rust programming language
-* **discord_stocksim_bot**: Discord bot that simulates the market with real time prices
-* **animangadle**: LoLdle inspired guessing game for Anime and Manga enthusiasts
+* **discord_stocksim_bot**: Python Discord bot that simulates live trading using Discord and Yahoo Finance APIs
+* **animangadle**: LoLdle inspired guessing game site for Anime and Manga enthusiasts
 
 <!--
 **demeil1/demeil1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

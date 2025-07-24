@@ -29,6 +29,7 @@ I strive to become a better programmer by writing code for problems that I, and 
 </p>
 
 ### Projects:
+* **clox**: Lox compiler written in C implemented as a stack based VM
 * **vndb-api**: Visual Novel API wrapper for the Rust programming language
 * **discord_stocksim_bot**: Python Discord bot that simulates live trading using Discord and Yahoo Finance APIs
 * **animangadle**: LoLdle inspired guessing game site for Anime and Manga enthusiasts

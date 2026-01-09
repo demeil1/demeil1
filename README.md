@@ -31,7 +31,7 @@ I strive to become a better software engineer by writing code for problems that 
     <img src="https://cdn.hackr.io/uploads/topics_svg/1515163329FBBk5SGRAt.svg" alt="riscv" width="80" height="80"/>
   </a>
   <a href="http://opencircuitdesign.com/magic/" target="_blank" rel="noreferrer">
-    <img src="http://opencircuitdesign.com/magic/giffiles/magic_title8_3.png" alt="vlsi" width="400" height="400"/>
+    <img src="http://opencircuitdesign.com/magic/giffiles/magic_title8_3.png" alt="vlsi" width="250" height="250"/>
   </a>
 </p>
 

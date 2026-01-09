@@ -25,13 +25,10 @@ I strive to become a better software engineer by writing code for problems that 
   </a>
 
   <a href="https://ieeexplore.ieee.org/document/8299595" target="_blank" rel="noreferrer">
-    <img src="https://antmicro.com/blog/images/systemverilog.svg" alt="systemverilog" width="60" height="60"/>
+    <img src="https://antmicro.com/blog/images/systemverilog.svg" alt="systemverilog" width="80" height="80"/>
   </a>
   <a href="https://riscv.org/" target="_blank" rel="noreferrer">
-    <img src="https://media.licdn.com/dms/image/v2/D4D12AQEM9F_-u1OT5Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1658763190886?e=2147483647&v=beta&t=aEp72fzTRZC_0EilFbT0wVV2jw6O-Bqt759qLG4pLrw" alt="riscv" width="60" height="60"/>
-  </a>
-  <a href="http://iverilog.icarus.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circuit/circuit-original.svg" alt="verilog" width="40" height="40"/>
+    <img src="https://cdn.hackr.io/uploads/topics_svg/1515163329FBBk5SGRAt.svg" alt="riscv" width="60" height="60"/>
   </a>
   <a href="http://opencircuitdesign.com/magic/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/ios-filled/50/processor.png" alt="vlsi" width="40" height="40"/>

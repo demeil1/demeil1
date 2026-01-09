@@ -1,10 +1,10 @@
 ## Hi 👋, I'm Demeil.
 
-I am a 20 year old Computer Science major at the University of Illinois at Chicago 🌱. Ever since I was young, I had an interest in computers and programming. Some of my fondest memories include attempting to build my own computer and trying to write code on my family computer.
+I am a 20 year old Computer Science major with a concentration in computer systems and and Electrical Engineering minor at the University of Illinois at Chicago 🌱. Ever since I was young, I had an interest in computer hardware and programming. Some of my fondest memories include attempting to build my own computer and learning to code on my family computer.
 
-My passions include backend and low level development ⚡. In my free time, I enjoy solving coding problems and furthering my education in fields like mathematics 🔭. Additionally, I have a love for low level software like operating systems.
+My passions include backend and low level development, operating systems, and ASIC design ⚡. In my free time, I enjoy solving coding problems, reading books about computer hardware, and furthering my education in fields like mathematics 🔭. Additionally, I have a love for trying out new low level software like operating systems.
 
-I strive to become a better programmer by writing code for problems that I, and others, want solutions too 🤔. Other than that, I enjoy reviewing code written by others to help hone my skills 😄.
+I strive to become a better software engineer by writing code for problems that I, and others, want solutions too 🤔. Other than that, I enjoy reviewing code and hardware designed by others to help hone my skills 😄.
 
 ### Languages, Software, and Frameworks:
 <p align="left"> 
@@ -29,6 +29,7 @@ I strive to become a better programmer by writing code for problems that I, and 
 </p>
 
 ### Projects:
+* **riscvcpu**: Reduced RISCV ISA implementation from RTL verilog to GDSII file with STA and PPA optimizations
 * **clox**: Lox compiler written in C implemented as a stack based VM
 * **vndb-api**: Visual Novel API wrapper for the Rust programming language
 * **discord_stocksim_bot**: Python Discord bot that simulates live trading using Discord and Yahoo Finance APIs

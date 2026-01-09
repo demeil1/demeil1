@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Demeil.
 
-I am a 20 year old Computer Science major with a concentration in computer systems and and Electrical Engineering minor at the University of Illinois at Chicago 🌱. Ever since I was young, I had an interest in computer hardware and programming. Some of my fondest memories include attempting to build my own computer and learning to code on my family computer.
+I am a 20 year old **Computer Science major with a concentration in computer systems and and Electrical Engineering minor** at the University of Illinois at Chicago 🌱. On top of that, I plan to get a **masters in Electrical Engineering focusing on Digital Systems and VLSI**. Ever since I was young, I had an interest in computer hardware and programming. Some of my fondest memories include attempting to build my own computer and learning to code on my family computer.
 
-My passions include backend and low level development, operating systems, and ASIC design ⚡. In my free time, I enjoy solving coding problems, reading books about computer hardware, and furthering my education in fields like mathematics 🔭. Additionally, I have a love for trying out new low level software like operating systems.
+My **passions include backend and low level development, operating systems, and ASIC design** ⚡. In my free time, I enjoy solving coding problems, reading books about computer hardware, and furthering my education in fields like mathematics 🔭. Additionally, I have a love for trying out new low level software like operating systems.
 
 I strive to become a better software engineer by writing code for problems that I, and others, want solutions too 🤔. Other than that, I enjoy reviewing code and hardware designed by others to help hone my skills 😄.
 

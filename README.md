@@ -9,29 +9,29 @@ I strive to become a better software engineer by writing code for problems that 
 ### Languages, Software, and Frameworks:
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/>
   </a>
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="80" height="80"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/>
   </a>
 
   <a href="https://ieeexplore.ieee.org/document/8299595" target="_blank" rel="noreferrer">
-    <img src="https://antmicro.com/blog/images/systemverilog.svg" alt="systemverilog" width="80" height="80"/>
+    <img src="https://antmicro.com/blog/images/systemverilog.svg" alt="systemverilog" width="150" height="150"/>
   </a>
   <a href="https://riscv.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.hackr.io/uploads/topics_svg/1515163329FBBk5SGRAt.svg" alt="riscv" width="60" height="60"/>
+    <img src="https://cdn.hackr.io/uploads/topics_svg/1515163329FBBk5SGRAt.svg" alt="riscv" width="80" height="80"/>
   </a>
   <a href="http://opencircuitdesign.com/magic/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/processor.png" alt="vlsi" width="40" height="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/processor.png" alt="vlsi" width="80" height="80"/>
   </a>
 </p>
 

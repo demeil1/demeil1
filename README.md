@@ -25,7 +25,7 @@ I strive to become a better software engineer by writing code for problems that 
   </a>
 
   <a href="https://ieeexplore.ieee.org/document/8299595" target="_blank" rel="noreferrer">
-    <img src="https://chipsalliance.org/wp-content/uploads/sites/11/2021/04/systemverilog-logo.png" alt="systemverilog" width="40" height="40"/>
+    <img src="https://antmicro.com/blog/images/systemverilog.svg" alt="systemverilog" width="40" height="40"/>
   </a>
   <a href="https://riscv.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/chipsalliance/omdazz/master/images/riscv-logo.svg" alt="riscv" width="40" height="40"/>

@@ -1,10 +1,17 @@
 ## Hi 👋, I'm Demeil.
 
-I am a 20 year old **Computer Science major with a concentration in computer systems and an Electrical Engineering minor** at the University of Illinois at Chicago 🌱. On top of that, I plan to get a **masters in Electrical Engineering focusing on Digital Systems and VLSI**. Ever since I was young, I had an interest in computer hardware and programming. Some of my fondest memories include attempting to build my own computer and learning to code on my family computer.
+I am an Electrical Engineering major at the University of Illinois at Chicago, with a focus on Digital Systems and VLSI ⚡. My background is a unique blend, as my degree is in EE, but I have taken nearly the entire Computer Science curriculum to understand the "Silicon-to-Software" stack as well as possible. I am currently preparing for my Master's in EE to take my knowledge to the next level.
 
-My **passions include backend and low level development, operating systems, and CPU/GPU/ASIC design** ⚡. In my free time, I enjoy solving coding problems, reading books about computer hardware, and furthering my education in fields like mathematics 🔭. Additionally, I have a love for trying out new low level software like operating systems.
+I have always been fascinated by how computers operate at the atomic level, from designing my first PCs to writing my first lines of code.
 
-I strive to become a better software engineer by writing code for problems that I, and others, want solutions too 🤔. Other than that, I enjoy reviewing code and hardware designed by others to help hone my skills 😄.
+What I'm Working On:
+🔌 Hardware Design: CPU/GPU/ASIC Architecture, SystemVerilog, and RTL-to-GDSII.
+
+💻 Low-Level Systems: Operating Systems, Kernel development, and C/Rust.
+
+🏎️ Performance: High concurrency systems and hardware-accelerated computing.
+
+I spend my free time watching videos about complex problems in computer architecture, reading up on advancements in microarchitecture, and exploring unusual operating systems 🔭. I am always willing to collaborate on low-level systems or review interesting hardware designs. If it has something to do with registers, logic gates, or pointers, then I am interested. 🤔😄
 
 ### Languages, Software, and Frameworks:
 <p align="left">

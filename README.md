@@ -1,17 +1,21 @@
 ## Hi 👋, I'm Demeil.
 
-I am an Electrical Engineering major at the University of Illinois at Chicago, with a focus on Digital Systems and VLSI ⚡. My background is a unique blend, as my degree is in EE, but I have taken nearly the entire Computer Science curriculum to understand the "Silicon-to-Software" stack as well as possible. I am currently preparing for my Master's in EE to take my knowledge to the next level.
+Electrical Engineering major at University of Illinois Chicago (UIC) with interest in RF, analog, and power electronics. Throughout my studies as an EE major, I have taken many courses within my universities Computer Science program in order to gain a fundamental understanding of system architecture all the way from silicon to software. This background provided me with experience from embedded/low-level programming to digital design; however, my interests have shifted towards the physical aspect of engineering including in RF, analog, and power electronics design.
 
-I have always been fascinated by how computers operate at the atomic level, from designing my first PCs to writing my first lines of code.
+In the past I have designed a tunable AM radio receiver based on the TA7642, implemented a RISC-V processor from RTL to GDSII, designed compilers and API’s, developed distributed software systems. Additionally, I have worked as SWE Intern at EthosOS and served as a Teaching Assistant for the UIC's Logic Design class.
 
-What I'm Working On:
-🔌 Hardware Design: CPU/GPU/ASIC Architecture, SystemVerilog, and RTL-to-GDSII.
+### What I'm Interested In
 
-💻 Low-Level Systems: Operating Systems, Kernel development, and C/Rust.
+📡 RF & Analog Design — wireless systems, receivers, amplifiers, and filtering.
 
-🏎️ Performance: High concurrency systems and hardware-accelerated computing.
+⚡ Power Electronics — power conversion and high-efficiency power systems.
 
-I spend my free time watching videos about complex problems in computer architecture, reading up on advancements in microarchitecture, and exploring unusual operating systems 🔭. I am always willing to collaborate on low-level systems or review interesting hardware designs. If it has something to do with registers, logic gates, or pointers, then I am interested. 🤔😄
+🔧 Hardware Design — FPGA/ASIC design and embedded systems.
+
+💻 Software as a Tool — C and low-level systems programming for hardware-oriented applications.
+
+When it comes to things outside of academic settings, I like to build electronics, experiment with different circuit design methods, and understand how hardware functions. I always welcome discussions on RF systems, analog circuits, power systems, and other exciting engineering projects.
+
 
 ### Languages, Software, and Frameworks:
 <p align="left">
@@ -41,11 +45,12 @@ I spend my free time watching videos about complex problems in computer architec
     <img src="https://cdn.hackr.io/uploads/topics_svg/1515163329FBBk5SGRAt.svg" alt="riscv" width="80" height="80"/>
   </a>
   <a href="http://opencircuitdesign.com/magic/" target="_blank" rel="noreferrer">
-    <img src="http://opencircuitdesign.com/magic/giffiles/magic_title8_3.png" alt="vlsi" width="250" height="250"/>
+    <img src="http://opencircuitdesign.com/magic/giffiles/magic_title8_3.png" alt="vlsi" width="250" height="100"/>
   </a>
 </p>
 
 ### Projects:
+* **TA7642 AM Radio**: tunable AM radio utilizing a TA7642 IC
 * **riscvcpu**: Reduced RISCV ISA implementation from RTL verilog to GDSII file with STA and PPA optimizations
 * **clox**: Lox compiler written in C implemented as a stack based VM
 * **vndb-api**: Visual Novel API wrapper for the Rust programming language

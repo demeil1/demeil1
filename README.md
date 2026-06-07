@@ -2,7 +2,7 @@
 
 Electrical Engineering major at University of Illinois Chicago (UIC) with interest in RF, analog, and power electronics. Throughout my studies as an EE major, I have taken many courses within my universities Computer Science program in order to gain a fundamental understanding of system architecture all the way from silicon to software. This background provided me with experience from embedded/low-level programming to digital design; however, my interests have shifted towards the physical aspect of engineering including in RF, analog, and power electronics design.
 
-In the past I have designed a tunable AM radio receiver based on the TA7642, implemented a RISC-V processor from RTL to GDSII, designed compilers and API’s, developed distributed software systems. Additionally, I have worked as SWE Intern at EthosOS and served as a Teaching Assistant for the UIC's Logic Design class.
+In the past I have designed a tunable AM radio receiver based on the TA7642, implemented a RISC-V processor from RTL to GDSII, developed operating system drivers, designed compilers and API’s, developed distributed software systems. Additionally, I have worked as SWE Intern at EthosOS and served as a Teaching Assistant for the UIC's Logic Design class.
 
 ### What I'm Interested In
 
@@ -50,7 +50,8 @@ When it comes to things outside of academic settings, I like to build electronic
 </p>
 
 ### Projects:
-* **TA7642 AM Radio**: tunable AM radio utilizing a TA7642 IC
+* **TA7642 AM Radio**: Tunable AM radio utilizing a TA7642 IC
+* **xv6paint**: VGA and mouse drivers implemented allowing for MS paint like application for the xv6 OS
 * **riscvcpu**: Reduced RISCV ISA implementation from RTL verilog to GDSII file with STA and PPA optimizations
 * **clox**: Lox compiler written in C implemented as a stack based VM
 * **vndb-api**: Visual Novel API wrapper for the Rust programming language
